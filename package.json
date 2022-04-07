@@ -1,5 +1,6 @@
 {
   "name": "react-shoppingcart",
+  "homepage": "https://github.com/ZackBradshaw/react-shoppingcart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^4.6.0",
     "gh-pages": "^3.2.3",
-    "homepage": "https://github.com/ZackBradshaw/react-shoppingcart",
     "react": "^18.0.0",
     "react-bootstrap": "^2.2.2",
     "react-dom": "^18.0.0",
