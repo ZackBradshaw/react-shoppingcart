@@ -28,6 +28,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Javascript 
 - HTML
 - CSS
+- React
 
 ##Documentation
 - [React Docs](https://beta.reactjs.org/)
